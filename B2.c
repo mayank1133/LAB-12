@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
     int n ;
     printf("value of n should be greater than 5\n");
     printf("Enter the value of n:");
